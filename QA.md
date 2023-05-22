@@ -27,12 +27,12 @@ Promueve la adaptabilidad del software a diferentes contextos y la mejora contin
 Estos fundamentos proporcionan una base sólida para evaluar, medir y mejorar la calidad del software, asegurando que cumpla con los requisitos y expectativas de los usuarios finales.
 --
 <Pensar las cosas de otra forma. En un producto, pagina, software hay que analizar multiples cosas.
-Abtraerse cuando le dan un problema, entender y plasmar los datos y la situacion.>
+Abtraerse cuando le dan un problema, entender y plasmar los datos y la situacion./>
 --
 <Casos de uso y Escenarios:>
 Entendimiento  de los usuarios y o publico (A quien esta apuntado)
 Sistema Operativo, Deskstops , Mobile
-Roles cumplen los usuario, para que cantidad de usuarios
+Roles cumplen los usuarios, para que cantidad de usuarios
 En que idioma esta
 Con que Finalidad
 Si es de uso interno o Externo
@@ -56,10 +56,8 @@ En Draw.io , Visio(Microsoft)>
 <Tester:>
 Ejecuta casos de prueba para identidificar errores, registra los problemas haciendo tickets en Jira o Trello, valida el funcionamiento
 <Analista QA:>
-Diseña, Analiza y Planifica los casos de prueba, los requerimientos, las historias de usuario para el Tester.
 
-<Gravedad>: Esta relacionado a lo Funcional.
-
+Diseña, Analiza y Planifica los casos de prueba, los requerimientos, las historias de usuario par
 <Prioridad>: Esta relacionado con la Urgencia.
 
 
