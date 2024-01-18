@@ -116,11 +116,11 @@ Se enfoca en probar el software desde una perspectiva externa, evaluando las ent
 <Caja blanca>
 implica conocer el código y la estructura interna del software para evaluar su funcionamiento interno. Ambos enfoques son importantes y se utilizan para diferentes propósitos en el aseguramiento de la calidad del software.
 
+<br>
 
+//////////////////////LA IMPORTANCIA DE QA EN EL DESARROLLO DE SOFTWARE/////////////
 
-LA IMPORTANCIA DE QA EN EL DESARROLLO DE SOFTWARE
-
-La Aseguramiento de la Calidad (QA) en el desarrollo de software es esencial para garantizar productos confiables y eficientes. QA implica procesos que buscan identificar y corregir defectos en todas las etapas del ciclo de vida del software.
+El Aseguramiento de la Calidad (QA) en el desarrollo de software es esencial para garantizar productos confiables y eficientes. QA implica procesos que buscan identificar y corregir defectos en todas las etapas del ciclo de vida del software.
  
 Objetivos de QA:
 1.       Experiencia del Usuario: Garantizar una experiencia libre de errores para los usuarios.
